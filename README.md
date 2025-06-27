@@ -1,4 +1,4 @@
-# 📊 Task 4 – Aggregate Functions & Grouping (SQL Developer Internship)
+# 📊 Task 4 – Aggregate Functions & Grouping
 
 ## 📌 Overview
 This repository contains SQL queries using aggregate functions and grouping techniques as part of Task 4 of my SQL Developer Internship. The queries are written against the `LibraryDB` schema designed in Tasks 1 to 3.
